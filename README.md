@@ -19,3 +19,8 @@ bannzai's commit template.
 - 👮  :cop: セキュリティ関連の改善
 - 🎨  :art: デザイン修正
 - 🚧  :construction: WIP 一時的なコミット 
+
+## Setup
+```
+$ ./setup.sh
+```
